@@ -1,4 +1,4 @@
 # LUNAS
 crypto coin
-![lunas logo](https://vk.com/photo308485690_457250409)
-[logo]: coin/lunas.png "Logo text"
+### LOGO 
+![logo](https://user-images.githubusercontent.com/63235817/106273554-edfc5500-6243-11eb-8514-d7efe64b7d97.png)
