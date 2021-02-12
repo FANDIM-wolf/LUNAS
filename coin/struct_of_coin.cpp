@@ -32,5 +32,9 @@ int main()
    vol *obj = new vol; 
    get(obj);
    show(obj);
+
+   vol *user = new vol;
+   get(user);
+   show(user);
     return 0;
 }
