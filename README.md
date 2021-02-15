@@ -1,7 +1,7 @@
 # LUNAS
 crypto coin
 ### LOGO 
-![logo](https://user-images.githubusercontent.com/63235817/106273554-edfc5500-6243-11eb-8514-d7efe64b7d97.png)
+![logo](https://user-images.githubusercontent.com/63235817/107947693-caefd600-6fa3-11eb-9664-60c5270cf7d3.png)
 ## Inctruction 
 GO to program folder and open console
 1) g++ coin.cpp
